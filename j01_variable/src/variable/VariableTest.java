@@ -21,6 +21,7 @@ public class VariableTest {
 			num = 10;
 			System.out.println(num);	// 10
 		
+		
 			// 식별자는 중복해서 사용 불가
 			// byte num = 20;
 			/*
@@ -71,7 +72,7 @@ public class VariableTest {
 			// 한개의 문자를 표현 하는 표현식    'A'     'B'
 			char c = 'A';
 		    // c = 'AB';
-			c = 65;
+			c = 66;
 			System.out.println(c);
 			// c = -1; // 0에서 부터 양의 정수만 가능
 			// c = "최고"; // 데이터 타입이 틀리면 저장 불가
